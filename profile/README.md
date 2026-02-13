@@ -1,7 +1,7 @@
 <p align="center"><strong>Built by developers, for developers.</strong></p>
 
 <p align="center">
-  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/af092590-5fb1-4ffd-abc0-4badfc37d5e9" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ac3a20f2-0dbe-468e-8cf4-059b4e16c5e5" />
 </p>
 
 
