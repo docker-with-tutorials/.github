@@ -1,11 +1,11 @@
 <p align="center"><strong>Built by developers, for developers.</strong></p>
 
 <p align="center">
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/31425661-76c5-49d6-abad-051e21dd0a7d" />
+<img width="300" height="300" alt="ChatGPT Image Feb 13, 2026, 01_29_43 PM" src="https://github.com/user-attachments/assets/f945346e-4218-4e76-be74-5335af61de46" />
 </p>
 
 
-# Docker With Tutorials
+# About
 
 Docker Tutorials is an organization dedicated to delivering clear, practical, and structured learning resources for Docker users at different stages of their journey.
 
